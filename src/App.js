@@ -1,11 +1,15 @@
+import Sidebar from "./Sidebar";
 
 
 
 
 function App() {
   return (
-    <div className="text-red-600 text-4xl flex justify-center ">
-    Srinivash
+    <div className="App bg-red-500 place-items-center grid ">
+    <div className="flex bg-white h-[90%] w-[90%] box ">
+      <Sidebar/>
+
+    </div>
     </div>
   );
 }
