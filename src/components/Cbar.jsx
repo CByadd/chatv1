@@ -7,13 +7,13 @@ import SearchIcon from '@mui/icons-material/Search';
 
 function Cbar() {
   return (
-    <div className='bg-red-500 w-[100%] h-44 pt-14 cbar '>
+    <div className='bg-white w-[100%] h-44 pt-14 cbar '>
        <div className='flex p m-2'>
        <div className='flex'>
        <IconButton>
-       <AccountCircleIcon fontSize='large'/>
+       <img src="yash.png" width='35px' className="rounded-full h-32 w-32 object-cover" ></img>
        </IconButton>
-       <h1 className='mt-2'>Srinivash</h1>
+       <h1 className='mt-2'>Yash</h1>
         </div>
 
 

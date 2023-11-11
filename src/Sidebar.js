@@ -9,11 +9,11 @@ import Chatacc from './components/Chatacc';
 
 function Sidebar() {
   return (
-    <div className='bg-orange-700  h-max mb-2 flex m-3 w-full sidebar cursor-pointer border-none '>
+    <div className='bg-white  h-max mb-2 flex m-3 w-full sidebar cursor-pointer border-none '>
         {/* ----------------------------------------- */}
         <div className=' h-max' >
           <IconButton> 
-          <AccountCircleIcon/>
+          <img src="d.jpg" width='40px' ></img>
           </IconButton>
         </div>
         {/* ----------------------------------------- */}
