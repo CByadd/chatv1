@@ -34,35 +34,7 @@ function Chatacc() {
 </div>
 </IconButton>
 
-{/* ------------------------------------------- */}
-<IconButton>
-<div className='flex w-full bg-slate-500 pb-6'>
-<IconButton>
-<img src="c.jpg" width='40px' ></img>
-</IconButton>
-<div className='flex flex-col jk '>
-<h2>Thiru</h2>
-<p className='text-gray-500'>Send the notes</p>
-</div>
 
-<h3 className='ol jk'>9:43 PM</h3>
-</div>
-</IconButton>
-
-{/* ------------------------------------------- */}
-<IconButton>
-<div className='flex w-full bg-slate-500 pb-6'>
-<IconButton>
-<img src="z.jpg" width='40px' ></img>
-</IconButton>
-<div className='flex flex-col jk '>
-<h2>CB</h2>
-<p className='text-gray-500'>process one completed</p>
-</div>
-
-<h3 className='ol jk'>9:43 PM</h3>
-</div>
-</IconButton>
 
 {/* ------------------------------------------- */}
 <IconButton>

@@ -200,3 +200,12 @@ image{
     background-size: cover;
   
 }
+
+
+h3{
+  opacity: 0;
+}
+
+p{
+  font-size: smaller;
+}
